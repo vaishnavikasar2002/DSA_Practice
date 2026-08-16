@@ -9,11 +9,11 @@ public class Variables {
         System.out.println(b);
         String name = "Tony Stark";
         System.out.println(name);
-        a=50;
+        a=50; //changed a value
         System.out.println(a);
     }
 }
-// ---------------------------------- Q2  Write a Java program to declare an integer variable age, assign the value 20 to it, and print it.------------------------------------
+// ------Q2  Write a Java program to declare an integer variable age, assign the value 20 to it, and print it.------------------------------------
 
 
 // public class Variables {

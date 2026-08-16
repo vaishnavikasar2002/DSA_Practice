@@ -16,3 +16,30 @@ public class incomeTaxCal {
         sc.close();
     }
 }
+
+
+// -----------------------------------------------------------------------------------------------------------------------------
+
+
+//using self method
+
+// import java.util.*;
+
+// public class incomeTaxCal {
+//     public static void main(String args[]) {
+
+//         Scanner sc = new Scanner(System.in);
+
+//         int income = sc.nextInt();
+
+//         if (income < 5) {
+//             System.out.println("You have to apply 0% tax");
+//         }
+//         else if (income >= 5 && income <= 10) {
+//             System.out.println("You have to apply 20% tax");
+//         }
+//         else {
+//             System.out.println("You have to apply 30% tax");
+//         }
+//     }
+// }

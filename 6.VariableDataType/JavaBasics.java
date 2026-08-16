@@ -7,3 +7,5 @@ public class JavaBasics {
         System.out.print("Hello vaishnavi + rahul = aarvi ! \nHello vaishnavi + rahul = aarvi !");
     }
 }
+
+// println & \n = print in new line

@@ -7,7 +7,7 @@ public class Sum {
     }
 } 
 
-// ------------------Q: Write a Java program to input two numbers, find their sum, and display the result.-----------------------------------------
+// --------Q: Write a Java program to input two numbers, find their sum, and display the result.-----------------------------------------
 
 // public class Sum {
 // public static void main (String args[]) {

@@ -15,12 +15,13 @@ public class LinearSearchex {
 
         int key = 10;
 
-        int index = linear_search_ex(numbers, key);
-        if(index == -1){
-            System.out.println("Not Found");
-        }else{
-            System.out.println("key is at index:" + index);
-        }
+
+        // int index = linear_search_ex(numbers, key);
+        // if(index == -1){
+        //     System.out.println("Not Found");
+        // }else{
+        //     System.out.println("key is at index:" + index);
+        // }
      
     }
 }
