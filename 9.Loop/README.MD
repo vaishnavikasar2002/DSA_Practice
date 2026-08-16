@@ -1,4 +1,4 @@
-## 9.Loops (FLow Control)
+## 9.Loops (Flow Control)
 1. Loops 
    1. while loop, print number from 1 to 10, print number from 1 to n, sum of first n natural numbers
    2. for loop, print squace pattern, print reverse of a number, reverse the given number
